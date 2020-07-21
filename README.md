@@ -1,1 +1,1 @@
-A repository for the examples from my learning..
+A repository for the examples from my learning.
